@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'babybunns',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'A8Wakez2i5uqL581Kea93W9Frzs01qk0LcjIoOZTBR6FLnAWdfrDdZhR',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2019-12-23',
+    'locale' => 'en-US',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'YY4rus1TzOZrZj0kBayXNqgcJA5s18djITtNFtnGxEswKhsJgEwNLaXT',
+    'cookie_iv' => 'xx62wKbP',
+    'new_cookie_key' => 'def00000ac8765ce616409889dc70e02037b19ac406fd5594e8fb5219f226a57e8deeb047f9dad642b7bf29778f9aa8c1debe26fa875c424e6ed742ffb09575276d4b0a0',
+  ),
+);
