@@ -1,11 +1,11 @@
 <?php return array (
   'parameters' => 
   array (
-    'database_host' => '127.0.0.1',
+    'database_host' => '99.000webhost.io',
     'database_port' => '',
-    'database_name' => 'babybunns',
-    'database_user' => 'root',
-    'database_password' => '',
+    'database_name' => 'id12090506_rakahunter89',
+    'database_user' => 'id12090506_rakahunter89',
+    'database_password' => 'qwertyabe',
     'database_prefix' => 'ps_',
     'database_engine' => 'InnoDB',
     'mailer_transport' => 'smtp',
