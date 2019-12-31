@@ -1,11 +1,11 @@
 <?php return array (
   'parameters' => 
   array (
-    'database_host' => '99.000webhost.io',
+    'database_host' => 'remotemysql.com',
     'database_port' => '',
-    'database_name' => 'id12090506_rakahunter89',
-    'database_user' => 'id12090506_rakahunter89',
-    'database_password' => 'qwertyabe',
+    'database_name' => 'YivqlAyFS1',
+    'database_user' => 'YivqlAyFS1',
+    'database_password' => 'W3PzZqRAaX',
     'database_prefix' => 'ps_',
     'database_engine' => 'InnoDB',
     'mailer_transport' => 'smtp',
